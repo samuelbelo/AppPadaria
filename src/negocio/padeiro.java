@@ -1,5 +1,10 @@
 package negocio;
 
-public class padeiro {
+public class Padeiro {
 
+	
+	
+	public void exibir() {
+		System.out.print("Padeiro\n");
+	}
 }
